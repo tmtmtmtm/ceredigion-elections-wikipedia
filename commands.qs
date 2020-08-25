@@ -1,10 +1,5 @@
 Q4737493	P3602	Q428598	P768	Q1077398	P102	Q832685	P1111	4337	P1352	4	S4656	"https://en.wikipedia.org/wiki/Ceredigion_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Amanda Jenner"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q1077398	P102	Q7981882	P1111	8879	P1352	2	S4656	"https://en.wikipedia.org/wiki/Ceredigion_(UK_Parliament_constituency)"
+Q76364261	P3602	Q30173038	P768	Q1077398	P102	Q7981882	P1111	8879	P1352	2	S4656	"https://en.wikipedia.org/wiki/Ceredigion_(UK_Parliament_constituency)"
 CREATE
 LAST	P31	Q5
 LAST	Len	"Arthur Henry Saunders Davies"
